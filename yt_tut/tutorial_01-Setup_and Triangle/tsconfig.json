@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2016",
+    "jsx": "preserve",
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "rootDir": "./src",
+    "outDir": "./src"
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
